@@ -16,6 +16,6 @@ Ahora ya Podemos empezar!
 
 | Lecciones | Link |
 |-----------|------|
-|Primer Repositorio|
+|Primer Repositorio|https://github.com/migueltrujillo07/PruebasEnGitAndGitHub/tree/main/CreandoPrimerRepo|
 
 
